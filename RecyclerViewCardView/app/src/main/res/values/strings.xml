@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerViewCardView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="desc_img_row">desc image row</string>
+    <string name="text_view_row">Hello How Are you</string>
+
+    <string name="linear_view_horizontal">linear View Horizontal</string>
+    <string name="linear_view_vertical">linear View Vertical</string>
+    <string name="grid_view">Grid View</string>
+    <string name="staggered_view_horizontal">Staggered View Horizontal</string>
+    <string name="staggered_view_vertical">Staggered View Vertical</string>
+
+</resources>
